@@ -1,7 +1,7 @@
 # Student Management System
 
 ## Overview
-This Student Management System is a comprehensive web application designed to simplify the management of student records for educational institutions. Built with the powerful combination of React for the frontend and Django along with Django REST Framework for the backend, it offers a seamless, interactive, and user-friendly experience. Whether you're a teacher, administrative staff, or a student, this system is equipped to handle your needs efficiently.
+This Student Management System is a comprehensive web application designed to simplify the management of student records for educational institutions. Built with the powerful combination of **React for the frontend** and **Django along with Django REST Framework for the backend**, it offers a seamless, interactive, and user-friendly experience. Whether you're a teacher, administrative staff, or a student, this system is equipped to handle your needs efficiently.
 
 ## Features
 - **Student Records Management:** Add, update, and delete student records with ease.
