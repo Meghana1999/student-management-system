@@ -1,0 +1,21 @@
+body, html{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.app-logo{
+  padding-left: 50px;
+}
+
+.sidebar {
+  display: flex;
+  height: 100vh;
+  float: left;
+  overflow: 'scroll initial';
+}
+
+.side-row{
+  padding: 50px;
+
+}
